@@ -10,3 +10,4 @@ This was accomplished using a youtube tutorial. I have personalized it to show m
 
 ## Example of Image search 
 >fish 
+![image App-Example of how the app looks](https://github.com/HRoses/ImageSearch_App/assets/105571947/f6beae98-3a2c-4a22-a8d5-c412e2440401)
